@@ -86,4 +86,13 @@ ___
 
 We have collection of Dockerfiles used to create containers for Hoffman2.
 
+___
+
+## Files for Conda environments
+
+`hpc_conda`
+
+YML files to create various conda env on Hoffman2.
+
+___
 
