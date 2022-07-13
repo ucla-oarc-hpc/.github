@@ -8,6 +8,10 @@ This page will have repositories related to the Hoffman2 cluster and UCLA HPC re
 
 You may view Hoffman2 documentation page [here](https://www.hoffman2.idre.ucla.edu/)
 
+For Hoffman2 technical support, you can open a support ticket on our [online help desk](https://support.idre.ucla.edu/helpdesk/Tickets/New)
+
+___
+
 ## Presentations
 
 The HPC Systems Team hosts different kinds of presentations relating to High-Performance Computing topics. 
@@ -74,7 +78,9 @@ Presented by Charles Peterson
 
 March 30, 2022
 
-## Files for HPC Container
+___
+
+## Files for HPC Containers
 
 `hpc_containers`
 
