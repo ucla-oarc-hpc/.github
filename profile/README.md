@@ -80,6 +80,15 @@ March 30, 2022
 
 ___
 
+## Using RStudio on Hoffman2
+
+`H2-RStudio`
+
+Examples on using RStudio on Hoffman2
+
+___
+
+
 ## Files for HPC Containers
 
 `hpc_containers`
