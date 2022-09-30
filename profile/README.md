@@ -24,9 +24,11 @@ https://ucla.box.com/s/6fsinqhvsv3ywf9wmg30565iw7l8wvt1
 
 Workshops hosted by the HPC Systems Team
 
+___
+
 #### Making Containers
 
-`WS_MakingContainers`
+[WS_MakingContainers](https://github.com/ucla-oarc-hpc/WS_MakingContainers)
 
 Building Containers for HPC
 
@@ -34,15 +36,19 @@ Presented by Charles Peterson
 
 July 6, 2022
 
+___
+
 #### Containers
 
-`WS_containers`
+[WS_containers](https://github.com/ucla-oarc-hpc/WS_containers)
 
 Using Containers on HPC Resources
 
 Presented by Charles Peterson
 
 April 20, 2022
+
+___
 
 #### Singularity
 
@@ -54,35 +60,41 @@ Presented by Charles Peterson
 
 April 29, 2021
 
+___
+
 ### Hoffman2 Happy Hour (H2HH)
 
 The Hoffman2 Happy Hour talks are a series of short-ish presentations on topics related to Hoffman2.
 
+___
+
 #### H2HH Anaconda
 
-`H2HH_anaconda`
+[H2HH_anaconda](https://github.com/ucla-oarc-hpc/H2HH_anaconda)
 
 Hoffman2 Happy Hour: Anaconda
 
 Presented by Charles Peterson
 
-June 28, 2022
+September 21, 2022
+
+___
 
 #### H2HH RStudio
 
-`H2HH_rstudio`
+[H2HH_rstudio](https://github.com/ucla-oarc-hpc/H2HH_rstudio)
 
 Hoffman2 Happy Hour: Using RStudio on Hoffman2
 
 Presented by Charles Peterson
 
-March 30, 2022
+September 28, 2022
 
 ___
 
 ## Using RStudio on Hoffman2
 
-`H2-RStudio`
+[H2-RStudio](https://github.com/ucla-oarc-hpc/H2-RStudio)
 
 Examples on using RStudio on Hoffman2
 
@@ -91,7 +103,7 @@ ___
 
 ## Files for HPC Containers
 
-`hpc_containers`
+[hpc_containers](https://github.com/ucla-oarc-hpc/hpc_containers)
 
 We have collection of Dockerfiles used to create containers for Hoffman2.
 
@@ -99,7 +111,7 @@ ___
 
 ## Files for Conda environments
 
-`hpc_conda`
+[hpc_conda](https://github.com/ucla-oarc-hpc/hpc_conda)
 
 YML files to create various conda env on Hoffman2.
 
