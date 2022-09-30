@@ -2,7 +2,7 @@
 
 Welcome! 
 
-This is the GitHub page for UCLA's OACR HPC Systems Teams
+This is the GitHub page for UCLA's OARC HPC Systems Teams
 
 This page will have repositories related to the Hoffman2 cluster and UCLA HPC resources.
 
@@ -26,7 +26,6 @@ Workshops hosted by the HPC Systems Team
 
 ___
 
-#### Making Containers
 
 [WS_MakingContainers](https://github.com/ucla-oarc-hpc/WS_MakingContainers)
 
@@ -38,8 +37,6 @@ July 6, 2022
 
 ___
 
-#### Containers
-
 [WS_containers](https://github.com/ucla-oarc-hpc/WS_containers)
 
 Using Containers on HPC Resources
@@ -50,9 +47,7 @@ April 20, 2022
 
 ___
 
-#### Singularity
-
-`WS_Singularity`
+[WS_Singularity](https://github.com/ucla-oarc-hpc/WS_Singularity)
 
 Singularity on Hoffman2: Using containers on HPC resources
 
@@ -68,8 +63,6 @@ The Hoffman2 Happy Hour talks are a series of short-ish presentations on topics 
 
 ___
 
-#### H2HH Anaconda
-
 [H2HH_anaconda](https://github.com/ucla-oarc-hpc/H2HH_anaconda)
 
 Hoffman2 Happy Hour: Anaconda
@@ -79,8 +72,6 @@ Presented by Charles Peterson
 September 21, 2022
 
 ___
-
-#### H2HH RStudio
 
 [H2HH_rstudio](https://github.com/ucla-oarc-hpc/H2HH_rstudio)
 
