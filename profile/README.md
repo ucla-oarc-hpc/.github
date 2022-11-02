@@ -26,6 +26,14 @@ Workshops hosted by the HPC Systems Team
 
 ___
 
+[Big Data on HPC](https://github.com/ucla-oarc-hpc/WS_BigDataOnHPC)
+
+Presented by Charles Peterson
+
+Oct, 26, 2022
+
+___
+
 
 [WS_MakingContainers](https://github.com/ucla-oarc-hpc/WS_MakingContainers)
 
