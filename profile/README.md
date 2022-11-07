@@ -35,9 +35,7 @@ Oct, 26, 2022
 ___
 
 
-[WS_MakingContainers](https://github.com/ucla-oarc-hpc/WS_MakingContainers)
-
-Building Containers for HPC
+[Building Containers for HPC](https://github.com/ucla-oarc-hpc/WS_MakingContainers)
 
 Presented by Charles Peterson
 
@@ -45,9 +43,7 @@ July 6, 2022
 
 ___
 
-[WS_containers](https://github.com/ucla-oarc-hpc/WS_containers)
-
-Using Containers on HPC Resources
+[Using Containers on HPC Resources](https://github.com/ucla-oarc-hpc/WS_containers)
 
 Presented by Charles Peterson
 
@@ -55,9 +51,7 @@ April 20, 2022
 
 ___
 
-[WS_Singularity](https://github.com/ucla-oarc-hpc/WS_Singularity)
-
-Singularity on Hoffman2: Using containers on HPC resources
+[Singularity on Hoffman2: Using containers on HPC resources](https://github.com/ucla-oarc-hpc/WS_Singularity)
 
 Presented by Charles Peterson
 
@@ -71,9 +65,7 @@ The Hoffman2 Happy Hour talks are a series of short-ish presentations on topics 
 
 ___
 
-[H2HH_anaconda](https://github.com/ucla-oarc-hpc/H2HH_anaconda)
-
-Hoffman2 Happy Hour: Anaconda
+[Hoffman2 Happy Hour: Anaconda](https://github.com/ucla-oarc-hpc/H2HH_anaconda)
 
 Presented by Charles Peterson
 
@@ -81,9 +73,7 @@ September 21, 2022
 
 ___
 
-[H2HH_rstudio](https://github.com/ucla-oarc-hpc/H2HH_rstudio)
-
-Hoffman2 Happy Hour: Using RStudio on Hoffman2
+[Hoffman2 Happy Hour: Using RStudio on Hoffman2](https://github.com/ucla-oarc-hpc/H2HH_rstudio)
 
 Presented by Charles Peterson
 
