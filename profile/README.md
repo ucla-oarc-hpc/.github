@@ -30,8 +30,6 @@ ___
 
 Presented by Charles Peterson
 
-Oct, 26, 2022
-
 ___
 
 
@@ -39,23 +37,17 @@ ___
 
 Presented by Charles Peterson
 
-July 6, 2022
-
 ___
 
 [Using Containers on HPC Resources](https://github.com/ucla-oarc-hpc/WS_containers)
 
 Presented by Charles Peterson
 
-April 20, 2022
-
 ___
 
 [Singularity on Hoffman2: Using containers on HPC resources](https://github.com/ucla-oarc-hpc/WS_Singularity)
 
 Presented by Charles Peterson
-
-April 29, 2021
 
 ___
 
@@ -69,15 +61,11 @@ ___
 
 Presented by Charles Peterson
 
-September 21, 2022
-
 ___
 
 [Hoffman2 Happy Hour: Using RStudio on Hoffman2](https://github.com/ucla-oarc-hpc/H2HH_rstudio)
 
 Presented by Charles Peterson
-
-September 28, 2022
 
 ___
 
