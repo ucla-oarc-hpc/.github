@@ -25,6 +25,7 @@ The HPC Systems Team hosts various presentations and workshops on High-Performan
 
 Hoffman2 Happy Hour talks are a series of brief presentations on topics related to Hoffman2.
 
+- [**Hoffman2 Happy Hour: Python and R**](https://github.com/ucla-oarc-hpc/H2HH_Python-R) - Presented by Charles Peterson
 - [**Hoffman2 Happy Hour: Anaconda**](https://github.com/ucla-oarc-hpc/H2HH_anaconda) – Presented by Charles Peterson
 - [**Hoffman2 Happy Hour: Using RStudio on Hoffman2**](https://github.com/ucla-oarc-hpc/H2HH_rstudio) – Presented by Charles Peterson
 
