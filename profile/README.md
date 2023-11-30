@@ -14,6 +14,7 @@ The HPC Systems Team hosts various presentations and workshops on High-Performan
 
 ### Workshops
 
+- [**Haressing the Power of HPC and Machine Learning**](https://github.com/ucla-oarc-hpc/WS_MLonHPC) - Presented by Charles Peterson
 - [**Compiling and Building Software on HPC**](https://github.com/ucla-oarc-hpc/WS_CompilingOnHPC) - Presented by Charles Peterson
 - [**Visualization Applications on HPC**](https://github.com/ucla-oarc-hpc/WS_VisualizationHPC) - Presented by Charles Peterson
 - [**Big Data on HPC**](https://github.com/ucla-oarc-hpc/WS_BigDataOnHPC) – Presented by Charles Peterson
